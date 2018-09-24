@@ -1,0 +1,11 @@
+﻿/* Red Text for Validation Error */
+.text-danger {
+    color: red;
+}
+.heading-center {
+    text-align: center;
+}
+.top-margin {
+    margin-top: 30px;
+}
+
